@@ -37,32 +37,40 @@
         color:#FFFFFF;
         padding: 0%;
 }
-    .second-part{
-     display: flex;
-     
-     margin-left: 220px;
-     margin-right: 315px;
-     position: absolute;
-     align-items: center;
-     padding-bottom: 30px;
-     
-    }
-    .written-part{
-        width: 415px;
-        height: 415px;
-        left: 865px;
-        top: 1160px;
-        padding: 20;
+.second-part{
+    display: flex;
+    
+
+
+}
+.written-part{
+    width: 415px;
+    height: 415px;
+    left: 865px;
+    top: 1160px;
+    padding: 20;
+    position: absolute;
+
+}
+
+
+
+.photo{
+    position: absolute;
+width: 569px;
+height: 723.3px;
+left: 206px;
+top: 939px;
+}
+.new{
+    top: 1768;
+    text-align: center;
+}
+
+
+
     
     
-    }
-    .banner-style{
-        padding: 50px;
-    }
-    .next-section{
-        position: absolute;
-        
-    }
 
 
 
