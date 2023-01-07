@@ -66,6 +66,51 @@ top: 939px;
     top: 1768;
     text-align: center;
 }
+.plans-container{
+    display: flex;
+    gap: 86px;
+}
+.plan-tittle{
+    font-weight: 700;
+    font-size: 20px;
+    
+}
+.plan-description{
+color: #737272;
+}
+.plan{
+    margin-left: 150px;
+}
+.container{
+    
+    background: url(../images/watch.png);
+    background-position: center;
+    background-size: cover;
+position: absolute;
+    width: 1140px;
+    height: 300px;
+    left: 230px;
+    top: 2216.3px;
+}
+.container::after{
+    position: absolute;
+    background: url(../images/gradient2.png);
+    height: 100%;
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    top: 0;
+    left: 0;
+}
+
+
+
+
+
+
+
+
 
 
 
