@@ -1,0 +1,69 @@
+/* banner styles */
+.banner {
+    height: auto;
+    position: relative;
+    width: 1600px;
+    
+
+}
+.banner img{
+    width: 100%;
+    display: block;
+}
+.heading{
+    position: absolute;
+    height: 228px;
+    width: 525px;
+    top: 216px;
+    left: 845px;
+    font-size: 65px;
+}
+.details{
+    position: absolute;
+    height: 78px;
+    width: 494px;
+     top:468px ;
+     left: 876px;
+     font-size: 16px;
+}
+.btn-primary{
+    position: absolute;
+    height: 64px;
+    width: 160px;
+    top: 578px;
+    left: 1210px;
+    border-radius: 5px;
+    background-color: orangered;
+        color:#FFFFFF;
+        padding: 0%;
+}
+    .second-part{
+     display: flex;
+     
+     margin-left: 220px;
+     margin-right: 315px;
+     position: absolute;
+     align-items: center;
+     padding-bottom: 30px;
+     
+    }
+    .written-part{
+        width: 415px;
+        height: 415px;
+        left: 865px;
+        top: 1160px;
+        padding: 20;
+    
+    
+    }
+    .banner-style{
+        padding: 50px;
+    }
+    .next-section{
+        position: absolute;
+        
+    }
+
+
+
+
