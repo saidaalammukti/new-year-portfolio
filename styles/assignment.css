@@ -83,7 +83,7 @@ color: #737272;
 }
 .container{
     
-    background: url(../images/watch.png);
+    background:url(../images/gradient2.png), url(../images/watch.png);
     background-position: center;
     background-size: cover;
 position: absolute;
@@ -92,17 +92,59 @@ position: absolute;
     left: 230px;
     top: 2216.3px;
 }
-.container::after{
-    position: absolute;
-    background: url(../images/gradient2.png);
-    height: 100%;
-    width: 100%;
-    background-position: center;
-    background-size: cover;
-    background-repeat: no-repeat;
-    top: 0;
-    left: 0;
+.shadow{
+
+
+color: #FFFFFF;
 }
+.btn-secondary{
+    border-color: white;
+    color: orangered;
+    border-radius: 5px;
+}
+
+.contact .section-tittle{
+    text-align: left;
+}
+.contact{
+    display: flex;
+    gap: 150px;
+    background-color: black;
+    color: aliceblue;
+    padding: 130px 200px;
+}
+form{
+    position: absolute;
+width: 325px;
+height: 144px;
+left: 1046px;
+top: 2836.3px;
+}
+h2{
+    position: absolute;
+width: 123px;
+height: 29px;
+left: 1046px;
+top: 2776.3px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 25px;
+line-height: 29px;
+
+color: #FFFFFF;
+}
+.last-button{
+    position: absolute;
+width: 100.11px;
+height: 40px;
+left: 1046px;
+top: 2916.3px;
+color: orangered;
+
+}
+
 
 
 
